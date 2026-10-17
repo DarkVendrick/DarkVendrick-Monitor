@@ -4,7 +4,7 @@
 
 **Windows | v6.2.2 Beta 1 | Czech UI**
 
-[**Download DarkVendrick PC Monitor – Latest Beta**](https://github.com/DarkVendrick/DarkVendrick-Monitor/releases/tag/v6.2.2-beta.1)
+[⬇️ Download for Windows](https://github.com/DarkVendrick/DarkVendrick-Monitor/releases/download/v6.2.2-beta.1/DarkVendrick.PC.Monitor.Setup.exe)
 
 ---
 
@@ -35,9 +35,9 @@ Monitor your PC performance, analyze your gaming sessions and explore a dynamic 
 
 The first public beta is available through GitHub Releases.
 
-[**Download v6.2.2 – Beta 1**](https://github.com/DarkVendrick/DarkVendrick-Monitor/releases/tag/v6.2.2-beta.1)
+[⬇️ Download for Windows](https://github.com/DarkVendrick/DarkVendrick-Monitor/releases/download/v6.2.2-beta.1/DarkVendrick.PC.Monitor.Setup.exe)
 
-1. Download `DarkVendrick.PC.Monitor.Setup.exe` from the release Assets.
+1. Click the download link above to download the installer directly.
 2. Run the installer on Windows.
 3. Launch DarkVendrick PC Monitor.
 4. Explore the dashboard, hardware telemetry and gaming history.
