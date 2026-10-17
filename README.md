@@ -2,9 +2,9 @@
 
 **Real-Time Hardware Monitoring • Gaming Performance Analytics • Fantasy Live Dashboard**
 
-**Windows | v6.2.2 Beta 1 | Czech UI**
+**Windows | v6.2.6  | Czech UI**
 
-[⬇️ Download for Windows](https://github.com/DarkVendrick/DarkVendrick-Monitor/releases/download/v6.2.2-beta.1/DarkVendrick.PC.Monitor.Setup.exe)
+[⬇️ Download for Windows](https://github.com/DarkVendrick/DarkVendrick-Monitor/releases/latest/download/DarkVendrick.PC.Monitor.Setup.exe)
 
 ---
 
@@ -35,7 +35,7 @@ Monitor your PC performance, analyze your gaming sessions and explore a dynamic 
 
 The first public beta is available through GitHub Releases.
 
-[⬇️ Download for Windows](https://github.com/DarkVendrick/DarkVendrick-Monitor/releases/download/v6.2.2-beta.1/DarkVendrick.PC.Monitor.Setup.exe)
+[⬇️ Download for Windows](https://github.com/DarkVendrick/DarkVendrick-Monitor/releases/latest/download/DarkVendrick.PC.Monitor.Setup.exe)
 
 1. Click the download link above to download the installer directly.
 2. Run the installer on Windows.
@@ -44,7 +44,7 @@ The first public beta is available through GitHub Releases.
 
 ## Beta Testing
 
-**Current version: v6.2.2 – Beta 1**
+**Current version: v6.2.6**
 
 **Language:** Czech only. English and German translations are planned for future releases.
 
